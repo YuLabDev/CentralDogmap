@@ -3,7 +3,7 @@
 ![Schema](schema.png?raw=true "Schema")
 
 ### Data Sources
-- UniProt x RefSeq Protein: [HUMAN_9606_idmapping.dat.gz](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping.dat.gz) and [HUMAN_9606_idmapping_selected.tab.gz](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping_selected.tab.gz)
+- UniProt x RefSeq Protein: [HUMAN_9606_idmapping.dat.gz](http://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping.dat.gz) and [HUMAN_9606_idmapping_selected.tab.gz](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping_selected.tab.gz)
 - UniProt x Ensembl: [uniprot_sprot_human.dat.gz](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/taxonomic_divisions/uniprot_sprot_human.dat.gz) and [uniprot_trembl_human.dat.gz](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/taxonomic_divisions/uniprot_trembl_human.dat.gz)
 - UniProt x PDB: [split_xml directory](ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/split_xml/)
 - GRCh38 x dbSNP: [ASN1_flat directory](ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/ASN1_flat/)
