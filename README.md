@@ -12,12 +12,12 @@
 - Ensembl x RefSeq: [gene2ensembl.gz](https://bit.ly/2HOq4tq)
 - RefSeq Protein x RefSeq Transcript: [protein.gbk.gz](https://bit.ly/2F4bpqU)
 - Ensembl Identifiers x GRCh38: [Homo_sapiens.GRCh38.92.gtf.gz](https://bit.ly/2vsdZYg)
-<br>
+<br></br>
 - UniProt Sequences: [uniprot_sprot_human.dat.gz](https://bit.ly/2HhnL5h) and [uniprot_trembl_human.dat.gz](https://bit.ly/2HFA7n5)
 - Ensembl Protein Sequences: [Homo_sapiens.GRCh38.pep.all.fa.gz](https://bit.ly/2F3aRlq)
 - Ensembl Transcript Sequences: [Homo_sapiens.GRCh38.cds.all.fa.gz](https://bit.ly/2HeSa49)
 - RefSeq Protein Sequences: [protein.gbk.gz](https://bit.ly/2F4bpqU)
 - Refseq Transcript Sequences: [rna.fa.gz](https://bit.ly/2HfY8Si)
-<br>
+<br></br>
 - Ensembl Chromosomal Positions: [Homo_sapiens.GRCh38.92.gtf.gz](https://bit.ly/2vsdZYg)
 - RefSeq Transcript Chromosomal Positions: [ref_GRCh38.p12_top_level.gff3.gz](https://bit.ly/2qMNPdm)
